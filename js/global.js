@@ -18,7 +18,7 @@ $(document).ready(function() {
 			};
 
 			$.post('http://api.litzo.us/links', data, function(msg) {
-			  $('.title').html('<a href="http://litzo.us/' + msg.code + '"><span>litzo.us</span>/' + msg.code + '</a>');
+			  $('.title').html('<a href="http://litzo.us/' + msg.code + '" target="_blank"><span>litzo.us</span>/' + msg.code + '</a>');
 			});
 
 		} else {
