@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+</IfModule>
+
+RewriteRule ^(\w+)$ load.php?code=$1
