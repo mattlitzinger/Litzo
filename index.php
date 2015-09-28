@@ -29,6 +29,7 @@
 
 				<ul>
 					<li>Created by <a href="https://twitter.com/ltzngr" target="_blank">@ltzngr</a></li>
+					<li><a href="https://github.com/ltzngr/Litzo" target="_blank">View on GitHub</a></li>
 				</ul>
 
 		</div><!-- .main -->
